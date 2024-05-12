@@ -1,5 +1,5 @@
 function skibidi() {
-  return "skibidi dop dop dop yes yes";
+  returnMath.random() > 0.5 ?  "dop" | "yes"
 }
 
 export default skibidi;
