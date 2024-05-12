@@ -1,0 +1,16 @@
+{
+  "name": "skibidi",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/beebls/skibidi.git"
+  },
+  "homepage": "https://github.com/beebls/skibidi#readme",
+  "description": "skibidi dop dop dop yes yes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
